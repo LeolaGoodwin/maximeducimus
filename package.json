@@ -1,0 +1,26 @@
+{
+  "name": "maximeducimus",
+  "version": "1.0.0",
+  "description": "Browser JavaScript library for encrypting files using webcrypto.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeolaGoodwin/maximeducimus.git"
+  },
+  "keywords": [
+    "nulla"
+  ],
+  "author": "ColleenLedner",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/LeolaGoodwin/maximeducimus.git/issues"
+  },
+  "homepage": "https://github.com/LeolaGoodwin/maximeducimus.git",
+  "devDependencies": {
+    "karma": "^1.3.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-firefox-launcher": "^1.0.0",
+    "karma-mocha": "^1.2.0",
+    "mocha": "^3.1.2"
+  }
+}
